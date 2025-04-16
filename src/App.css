@@ -1,0 +1,6 @@
+body{
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://wallpapers.com/images/high/hd-camera-black-canon-l35ddjyk2ujqww51.webp');
+}
