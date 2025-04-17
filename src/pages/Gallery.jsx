@@ -9,7 +9,7 @@ const Gallery = ({ category }) => {
   const galleryData = [
 
     {
-      url: 'https://teoriadelarte.com/wp-content/uploads/2023/11/noche-estrellada-vincent-van-gogh.jpg',
+      url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/%22La_noche_estrellada%22_de_Van_gogh.jpg/250px-%22La_noche_estrellada%22_de_Van_gogh.jpg',
       title: 'img1',
       type: 'image',
       category: 'art'
