@@ -9,7 +9,7 @@ const Gallery = ({ category }) => {
   const galleryData = [
 
     {
-      url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/%22La_noche_estrellada%22_de_Van_gogh.jpg/250px-%22La_noche_estrellada%22_de_Van_gogh.jpg',
+      url: 'https://www.todocuadros.com.co/cdn/shop/products/girasoles.jpg?v=1715359665',
       title: 'img1',
       type: 'image',
       category: 'art'
